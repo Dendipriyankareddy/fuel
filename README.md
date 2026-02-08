@@ -29,7 +29,7 @@ The deployment of autonomous vehicles on road to safely navigate in uncertain en
 
 
 ## Installtion
-1. Clone this repo: `git clone `
+1. Clone this repo: `git clone https://github.com/Dendipriyankareddy/fuel.git`
 2. Download Carla 0.9.13 from [source](https://github.com/carla-simulator/carla/releases). 
 3. Install required packages: `pip install -r requirements.txt`
 4. Requirements file contains packages compatible with Ubuntu 22.0
@@ -93,5 +93,6 @@ Video for all trajectories and failure cases can be found [here](https://drive.g
 | test_braking.py    | To test the braking model                                                                     |
 | test_driving.py    | To test the driving model                                                                     |
 | test_everything.py | Main file to run the selected trajectories                                                     |
+
 
 
