@@ -1,6 +1,6 @@
 # Autonomous-Vehicle-Navigation-Using-Deep-Learning
 
-**[Paper Link]()**
+**[Paper Link](https://docs.google.com/presentation/d/1AmiD6FY8kOPiDdGe8OBEi5kIWYTOKAXQ/edit?usp=drivesdk&ouid=106617240885960069081&rtpof=true&sd=true)**
 
 ## Introduction
 The development of safe and reliable autonomous driving technology remains a critical research area, with numerous studies exploring various approaches to enhancing the safety of self-driving vehicles. When it comes to beyond level 4 in autonomous driving technology, the vehicle should be able to deal with various kinds of situations around the self-driving vehicle in order to arrive at the targeted destination successfully. Different sensor and algorithm-based approaches have been tried and developed to navigate safely to the target destination in the CARLA simulator. Conventional control systems are based on mathematical models, but they only control the vehicle in a limited range of situations. Therefore, Machine Learning (ML) algorithms have been applied in autonomous systems to better control vehicles in varied situations.
